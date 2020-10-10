@@ -45,13 +45,16 @@
     <nav class="navbar bg-faded navbar-fixed-top no-gutters menu">
       <ul class="nav navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#about" data-target="#contact">About Us</a>
+          <a class="nav-link" href="./index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#work">Work</a>
+          <a class="nav-link" href="./teams.php">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" data-toggle="modal" href="#myModal">Upcoming Event</a>
+          <a class="nav-link"  href="./about.php">Event</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./winners.php">Winners</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#contact">Contact</a>
@@ -91,208 +94,6 @@
                                                       WORK 
  ================================================================================================================== -->
 
-<section class="m-b-2 p-b-2 p-t-2 relative skills color-white">
-        <!--Work-->
-    <section class="work m-b-6" id="work">
-      <div class="container text-xs-center m-y-2" id="work">
-        <div class="row">
-          <div class="col-sm-12">
-            <h2>Events</h2>
-          </div>
-        </div>
-        <div class="row no-gutter">
-          <!-- FIFAScount Column -->
-          <div class="col-md-6 col-sm-12">
-            <div class="box p-x-3">
-              <h3 class="m-t-3"><b>CIRCUITRON</b></h3>
-              <hr>
-              <p class="m-t-1">It was an  event mainly focusing on technical skills related to circuit analysis  and designing .  Basic circuits were to be designed using various electronics components .This would enhance creativity and innovation .This events helped the students in  applying their basic knowledge or theory lectures and by implementing it practically. </p>
-              <img src="./images/event.jpg" style="height: 45%; width: 75%;">
-            </div>
-          </div>
-          <!-- ThePokeRaf Column -->
-          <div class="col-md-6 col-sm-12">
-            <div class="box p-x-3 pokeraf">
-            <h3 class="m-t-3"><b>QUIZZICLE MINUTE</b></h3>
-              <hr>
-              <p class="m-t-1">In this event, general knowledge questions in the form of objective type were presented .The event consisted of two rounds, first one inculcating total of 50 question including current affairs,basic aptitude,general history and development of common gadgets. Another round was power packed round which  again had 30 question including verbal reasoning vedic maths.</p>
-              <img src="./images/event2.jpg" style="height: 45%; width: 75%;">
-            </div>
-          </div>
-        </div>
-        </div>
-      </div>
-    </section>
-
-
-<!-- ==================================================================================================================
-                                                    Our Team
- ================================================================================================================== -->
-
-
-    
-    <!-- <div class="divider-work"></div> -->
-
-    <div class="container" id="team">
-
-      <div class="row">
-        <div class="col-sm-12">
-          <h2>OurTeam</h2>
-        </div>
-      </div>
-
-    <section class="cf team-container">
-      <!-- member-->  
-      <div class="team-member">
-        <img class="team-photo" src="./images/kunaltyagi.jpg">
-        <h3>Kunal Tyagi</h3>
-        <span>General Secretary</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/rashikashukla.jpg">
-        <h3>Rashika Shukla</h3>
-        <span>Joint Secretary</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/aakashverma.jpg">
-        <h3>Aakash Verma</h3>
-        <span>Marketing Head</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/nikita.jpg">
-        <h3>Nitika Sharma</h3>
-        <span>Office Head</span>
-      </div>
-    </section>
-
-    <section class="cf team-container">
-      <div class="team-member">
-        <img class="team-photo" src="./images/mansi.jpg">
-        <h3>Mansi Singh</h3>
-        <span>Creative Head</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/komaldeepkaur.jpg">
-        <h3>Komaldeep Kaur</h3>
-        <span>Technical Head</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/kashikagarg.jpg">
-        <h3>Kashika Garg</h3>
-        <span>Treasurer</span>
-      </div>
-    </section>
-
-    <section class="cf team-container">
-      <div class="team-member">
-        <img class="team-photo" src="./images/shrashtimittal.jpg">
-        <h3>Shrashti Mittal</h3>
-        <span>Event Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/pratishthasingh.jpg">
-        <h3>Pratishtha Singh</h3>
-        <span>Promotion Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/mansichopra.jpg">
-        <h3>Mansi Chopra</h3>
-        <span>Creative Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/tanvisharma.jpg">
-        <h3>Tanvi Sharma</h3>
-        <span>Content Head</span>
-      </div>
-    </section>
-
-    <section class="cf team-container">
-      <div class="team-member">
-        <img class="team-photo" src="./images/shalurawat.jpg">
-        <h3>Shalu Rawat</h3>
-        <span>Social Media Head</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/satyamgupta.jpg">
-        <h3>Satyam Gupta</h3>
-        <span>Student Coordinator</span>
-      </div>
-
-        <div class="team-member">
-        <img class="team-photo" src="./images/shivamsharma.jpg">
-        <h3>Shivam Sharma</h3>
-        <span>Social Media Head</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/tusharkansal.jpg">
-        <h3>Tushar Kansal</h3>
-        <span>Discipline Head</span>
-      </div>
-    </section>
-
-    <section class="cf team-container">
-      <div class="team-member">
-        <img class="team-photo" src="./images/shraddhadwevedi.jpg">
-        <h3>Shraddha Dwevedi</h3>
-        <span>Office Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/shreyanshiagarwal.jpg">
-        <h3>Shreyanshi Aggarwal</h3>
-        <span>Creative Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/rishiyadav.jpg">
-        <h3>Rishi Yadav</h3>
-        <span>Promotion Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/anjalisingh.jpg">
-        <h3>Anjali Singh</h3>
-        <span>Student Coordinator</span>
-      </div>
-    </section>
-
-    <section class="cf team-container">
-      <div class="team-member">
-        <img class="team-photo" src="./images/shalinirajput.jpg">
-        <h3>Shalini Rajput</h3>
-        <span>Technical Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/siddharthamishra.jpg">
-        <h3>Siddhartha Mishra</h3>
-        <span>Technical Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/sameermittal.jpg">
-        <h3>Sameer Mittal</h3>
-        <span>Technical Coordinator</span>
-      </div>
-
-      <div class="team-member">
-        <img class="team-photo" src="./images/ishadayal.jpg">
-        <h3>Isha Dayal Sharma</h3>
-        <span>Technical Coordinator</span>
-      </div>
-    </section>
-
-  </section>
 
 <!-- ==================================================================================================================
                                           Message from President
@@ -546,7 +347,7 @@
         <div class="row">
           <div class="col-xs-6 col-sm-5 offset-sm-1">
             <ul class="social-media">
-          <li class="m-y-1 large"><a href="https://www.instagram.com/requiza.16ece/" target="_blank"><i class="fa fa-3x fa-instagram" aria-hidden="true"></i></a></li>
+          <li class="m-y-1 large"><a href="https://www.instagram.com/requiza.16ece/" target="_blank"><i class="fa fa-3x fa-instagram"  aria-hidden="true"></i></a></li>
                   <li class="m-y-1 large"><a href="https://www.facebook.com/Ece.requiza/" target="_blank"><i class="fa fa-3x fa-facebook" aria-hidden="true"></i></a></li>
                   <li class="m-y-1 large"><a href="#contact" target="_blank"><i class="fa fa-3x fa-envelope" aria-hidden="true"></i></a></li>
             </ul>
